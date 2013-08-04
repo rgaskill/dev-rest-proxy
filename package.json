@@ -1,6 +1,6 @@
 {
     "name": "dev-rest-proxy",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "author": "rgaskill <roarke.gaskill@gmail.com>",
     "description": "A very simple proxy that allows redirection of http calls",
     "main": "./lib/dev-rest-proxy",
