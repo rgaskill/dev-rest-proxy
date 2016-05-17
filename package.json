@@ -1,20 +1,19 @@
 {
-    "name": "dev-rest-proxy",
-    "version": "0.3.0",
-    "author": "rgaskill <roarke.gaskill@gmail.com>",
-    "description": "A very simple proxy that allows redirection of http calls",
-    "main": "./lib/dev-rest-proxy",
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:rgaskill/dev-rest-proxy.git"
-    },
+    "name": "middleware-proxy",
+    "version": "1.0.0",
+    "author": "Evan Jacobs <evan@yaycmyk.com> (http://yaycmyk.com)",
+    "description": "A connect-compliant middleware for simple, transparent redirection of HTTP requests.",
+    "repository": "yaycmyk/dev-rest-proxy",
     "keywords": [
         "http",
         "proxy",
-        "server"
+        "server",
+        "connect",
+        "express",
+        "middleware"
     ],
     "license": "MIT",
     "engines": {
-        "node": ">=0.8"
+        "node": ">=4"
     }
 }
